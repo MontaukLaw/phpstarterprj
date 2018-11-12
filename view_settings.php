@@ -16,6 +16,8 @@ print_r($_COOKIE);
 print($_COOKIE['expiration']);
 
 print (time());
+
+print "for git";
 ?>
 </body>
 
